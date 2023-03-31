@@ -1,0 +1,51 @@
+.area-register {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(180deg, rgba(43, 120, 93, 0.885417) 30.2%, rgba(57, 110, 121, 0.697917) 99.99%, rgba(100, 123, 119, 0) 100%);
+}
+
+.item-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+    height: 65%;
+    width: 25%;
+    align-items: center;
+    background: #647B77;
+}
+
+.titulo-form {
+    text-align: left;
+    width: 100%;
+    color: #fff;
+}
+
+.item-input {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-item {
+    width: 291px;
+    height: 45px;
+    border-radius: 10px;
+}
+
+.botao-cadastro {
+    width: 100px;
+    height: 45px;
+}
+
+.text-input {
+    color: #fff;
+}
+
+.botao-cadastro {
+    background: #38B597;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 10px;
+}
